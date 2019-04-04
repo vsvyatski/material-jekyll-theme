@@ -1,0 +1,17 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Run Jekyll site",
+            "type": "shell",
+            "command": "sh",
+            "args": [
+                "run.sh"
+            ],
+            "problemMatcher": [],
+            "options": {
+                "cwd": "${workspaceRoot}"
+            }
+        }
+    ]
+}
