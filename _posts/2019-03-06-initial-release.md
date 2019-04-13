@@ -1,7 +1,9 @@
 ---
 layout: post
-title:  "Two Thousand Fourteen"
-date:   2014-01-03 18:52:21
+title:  "Initial release - version 0.1.0"
+date:   2019-03-06 19:23:32 +0300
 categories: jekyll update
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I'm proud to present my first public release of Kenwood Database Generator - version 0.1.0.
+
+The binaries can be downloaded from [GitHub](https://github.com/vsvyatski/kmeldb-ui/releases/tag/v0.1.0).
