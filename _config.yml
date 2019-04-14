@@ -17,6 +17,6 @@ fixedNav: 'true' # true or false
 
 permalink: /:year/:month/:title
 include: [_pages]
-exclude: [_site, CHANGELOG.md, LICENSE, README.md, run.sh]
+exclude: [_site, CHANGELOG.md, LICENSE, README.md, run.sh, bundle.sh, publish]
 sass:
   style: compressed
