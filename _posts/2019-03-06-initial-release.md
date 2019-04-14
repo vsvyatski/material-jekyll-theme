@@ -2,7 +2,7 @@
 layout: post
 title:  "Initial release - version 0.1.0"
 date:   2019-03-06 19:23:32 +0300
-categories: jekyll update
+categories: Releases
 ---
 I'm proud to present my first public release of Kenwood Database Generator - version 0.1.0.
 
