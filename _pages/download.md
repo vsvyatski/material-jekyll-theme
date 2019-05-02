@@ -20,5 +20,5 @@ The users of Debian, Ubuntu and/or their derivatives can download and install a 
 Arch Linux and Manjaro users can download the following [package](https://github.com/vsvyatski/kmeldb-ui/releases/download/v0.4.0/kmeldb-ui-0.4.0-1-any.pkg.tar.xz) and install it via Pacman:
 
 ```bash
-pacman -U kmeldb-ui-0.4.0-1-any.pkg.tar.xz
+sudo pacman -U kmeldb-ui-0.4.0-1-any.pkg.tar.xz
 ```
